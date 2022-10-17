@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(foggy.jpg);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1 {
+    font-size: 120px;
+    margin-top: 0;
+    margin-bottom:20px;
+    color: #FDFEFD;
+    padding-bottom: 30px    ;
+}
+div {
+    width: 800px;
+    text-align: center;
+    background-color: #5B3A6A;
+    margin-left: 350px;
+    
+}
+.sign {
+    font-size: 40px;
+    margin-bottom: 0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.input1 {
+    width: 450px;
+    height: 20px;
+   padding: 10px 60px;
+    margin-bottom: 30px;
+
+}
+.input2 {
+    width: 450px;
+    height: 20px;
+    padding: 10px 60px;
+    margin-bottom: 30px;
+}
+.input3 {
+    width: 450px;
+    height: 20px;
+    padding: 10px 60px;
+    margin-bottom: 30px;
+}
+.input4 {
+    width: 450px;
+    height: 20px;
+   padding: 10px 60px;
+    margin-bottom: 63px;
+}
